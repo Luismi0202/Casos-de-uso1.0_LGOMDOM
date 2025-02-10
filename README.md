@@ -2,6 +2,7 @@
 
 1.-Crea el diagrama de uso haciendo uso de platuml, representado los actores y casos de uso que identifiques en los requisitos.
 ![img](./Plantuml.png)
+
 ```Plantuml
 @startuml
 actor CLIENTE
@@ -18,6 +19,7 @@ CLIENTE --> (Validación en cajero)
 (Validar limite diario) <-- Banco
 @enduml
 ```
+
 2.-Describe, haciendo uso de la plantilla, al menos el caso de uso "Sacar dinero", con las interacciones que tiene entre el actor y el caso de uso.
 
 El cliente se valida en el cajero y este podrá hacer 3 cosas. En este caso, el enunciado nos pide hablar sobre el sacar dinero. Sacar dinero lo que hace es validar que no se ha sacado más del límite diario y que se está sacando menos o el mismo dinero que el usuario tiene en el banco.
