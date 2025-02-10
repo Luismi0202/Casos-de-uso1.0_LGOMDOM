@@ -1,7 +1,7 @@
 # Casos-de-uso1.0_LGOMDOM
 
 1.-Crea el diagrama de uso haciendo uso de platuml, representado los actores y casos de uso que identifiques en los requisitos.
-![img](./plantuml.png)
+![img](./Plantuml.png)
 
 2.-Describe, haciendo uso de la plantilla, al menos el caso de uso "Sacar dinero", con las interacciones que tiene entre el actor y el caso de uso.
 
